@@ -1,13 +1,17 @@
-# Farooq-Qamar
-Assessment 1
-3AI Care is launching a new business venture, expanding its existing Day Hospital Facility which currently specializes in dental and oral-maxillofacial procedures under general anesthesia.  This independent ambulatory facility provides a collaborative environment for specialist anesthetists and peri-operative nurses to deliver expert care to dental and oral surgery patients. The new business will adopt a teal color theme and incorporate 'infusion health and care' into its name. A simple, short logo related to health and specifically infusion will be designed.  To facilitate client bookings, a form will be implemented to capture essential information such as name, email, mobile number, preferred day and time. Preferred imagery will emphasize a clean and sterile environment, professional medical staff, medical equipment, patient comfort, and informative infographics and diagrams.  3AI Care will provide detailed information on iron infusion and Vitamin B12 injection services.  Recognizing the importance of targeted marketing, 3AI Care will consider specific health conditions and lifestyle factors that contribute to deficiencies when defining the target audience for these new services
+Farooq-Qamar s8139346 Victoria University
 
+Over View 
+This repository contains a simple HTML website detailing the iron infusion and Vitamin B12 injection procedures performed in a day hospital setting. It includes two navigation buttons, "Iron Infusion" and "B12 Injection," linking to pages that explain the benefits of each procedure.
 
+The repository for the Day Hospital website includes:
+•	The primary webpage, index.html, which houses the site's fundamental structure and content.
+•	A README.md file, offering a concise summary of the website.
+•	Two additional HTML pages: 
+o	iron-infusion.html, dedicated to explaining the advantages of the iron infusion treatment.
+o	vitamin-b12-injection.html, detailing the benefits of the Vitamin B12 injection procedure.
+Layout of the website 
+The website's layout is simple, clear, basic, and consistent.
 
-what is all about
-It is to provide iron infusion and Vitamin B12 injections.
+My coding experience is zero. I opted for a basic design. I wanted to add images, but I struggled with it. I added the images to the repository to work on it at a later date.
 
-
-
-what it will give to people who visit site :
-This page will provide educational information regarding infusion.
+The fonts and colors used are soft and easy on the eye
