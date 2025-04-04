@@ -11,7 +11,5 @@ o	iron-infusion.html, dedicated to explaining the advantages of the iron infusio
 o	vitamin-b12-injection.html, detailing the benefits of the Vitamin B12 injection procedure.
 Layout of the website 
 The website's layout is simple, clear, basic, and consistent.
-
 My coding experience is zero. I opted for a basic design. I wanted to add images, but I struggled with it. I added the images to the repository to work on it at a later date.
-
 The fonts and colors used are soft and easy on the eye
